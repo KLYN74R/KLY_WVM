@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="./images/KLY_WASM.png">
-<img src="./images/KLY.jpg">
+<img src="./images/KLY_WVM_Preview.gif">
 
 </div>
 
 
-# KLY-VM implementation
+# KLY-WVM implementation
 
-This is the separate repository for KLY-VM - WASM-based, mutable, CIIP-X improved, post-quantum, with extra features, cross-VM calls and tons of offchain logic, crosschain abilities and much more.
+This is the separate repository for KLY-WVM - a WASM-based, mutable, CIIP-X improved, post-quantum, with extra features, cross-VM calls and tons of offchain logic, crosschain abilities and much more.
 
 # How can use it?
 
