@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/KLY_WVM_Preview.gif">
+<img src="./images/KLY-WVM.png">
 
 </div>
 
